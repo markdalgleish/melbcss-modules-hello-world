@@ -1,0 +1,4 @@
+.heading {
+  composes: title from "../shared/typography.css";
+  color: blue;
+}

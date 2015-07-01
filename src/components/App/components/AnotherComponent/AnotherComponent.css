@@ -1,0 +1,5 @@
+.heading {
+  composes: title from "../shared/typography.css";
+  font-family: helvetica;
+  color: red;
+}
